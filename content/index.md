@@ -3,7 +3,7 @@ title: "Simple & Elegant"
 description: "Hi there, and thank you for purchasing Simple & Elegant! This documentation walks you through installing the theme, importing the demo, setting up your pages..."
 ---
 
-Hi there, and thank you for purchasing **Simple & Elegant**! This documentation walks you through installing the theme, importing the demo, setting up your pages and styling your site. While installing or using the theme, if you need any help, please open a support ticket at [withemes.ticksy.com](https://withemes.ticksy.com/).
+Hi there, and thank you for purchasing **Simple & Elegant**! This documentation walks you through installing the theme, importing the demo, setting up your pages and styling your site. While installing or using the theme, if you need any help, please open a support ticket at our [support desk](https://withemes.ticksy.com/).
 
 Once you purchase Simple & Elegant, you also get **Visual Composer** and **Slider Revolution** for free. If you are not familiar with these plugins, please follow their official documentation:
 
