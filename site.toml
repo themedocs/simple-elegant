@@ -1,0 +1,5 @@
+title       = "Simple & Elegant docs"
+# Origin only — page URLs already carry the path prefix.
+base_url    = "https://themedocs.github.io"
+path_prefix = "/simple-elegant/"
+home_url    = "https://themedocs.github.io/"

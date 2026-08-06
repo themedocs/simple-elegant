@@ -1,0 +1,6 @@
+# Left-nav order. Titles come from each page's front matter.
+
+[[section]]
+title = "Documentation"
+dir   = ""
+pages = ["install", "quick-setup", "setup-pages", "site-style-typography", "translate-theme", "support-updates"]
