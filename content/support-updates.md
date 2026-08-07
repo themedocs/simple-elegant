@@ -5,7 +5,7 @@ description: "Thank you once again for purchasing Simple & Elegant. If you have 
 
 ### Support
 
-Thank you once again for purchasing Simple & Elegant. If you have any issue while using the theme, you can open a support ticket at our [support desk](https://withemes.ticksy.com/). We’ll review and resolve it shortly.
+Thank you once again for purchasing Simple & Elegant. If you have any issue while using the theme, you can open a support ticket at our [support desk](https://heronwp.support-desk.site/). We’ll review and resolve it shortly.
 
 ### Update the theme
 
