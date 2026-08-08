@@ -4,3 +4,8 @@
 title = "Documentation"
 dir   = ""
 pages = ["install", "quick-setup", "setup-pages", "site-style-typography", "translate-theme", "support-updates"]
+
+[[section]]
+title = "Changelog"
+dir   = ""
+pages = ["changelog"]
