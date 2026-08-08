@@ -7,6 +7,23 @@ Every released version of Simple & Elegant, newest first. The theme is updated
 through **Dashboard → Appearance → Themes**, or by re-uploading the package from
 your ThemeForest downloads.
 
+#### Version 2.6.6 - August 8, 2026
+
+```
+- fix: plugin installer could not download Slider Revolution, WPBakery Page
+  Builder, Envato Market or the two Simple & Elegant plugins - all of them
+  install and update normally again
+- fix: slow admin pages caused by a plugin version check that repeated on
+  every page load
+- update Slider Revolution to 6.7.25
+- update WPBakery Page Builder to 9.0.1
+- update Envato Market to 2.0.12
+- update (S&E) Addons and (S&E) Portfolio to 3.1
+- theme is now published by heronwp - support has moved to
+  heronwp.support-desk.site
+- smaller theme package
+```
+
 #### Version 2.6.5 - Dec 11, 2025
 
 ```
